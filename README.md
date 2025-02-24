@@ -26,7 +26,7 @@ Timeline, charts, map (maybe?)
 5. Sketched various versions of the ecosystems, timeline and graphs
 6. Finding the narrative, focusing on the driver for cash withdrawal or properties or general case?
 7. Storyline established and revised quotes
-8. Created charts, graphs, illustrations, map using Illustrator, Datawrapper and Photoshop
+8. Created charts, graphs, building illustrations, map using Illustrator, Datawrapper and Photoshop
 
 # Findings
 1. $44B Fraud: Truong My Lan orchestrated Vietnam’s largest financial fraud over 11 years, primarily through Saigon Commercial Bank (SCB).
